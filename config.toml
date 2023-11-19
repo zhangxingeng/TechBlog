@@ -1,7 +1,7 @@
-baseURL = 'https://zhangxingeng.github.io/TechBlog/'
+baseURL = "https://zhangxingeng.github.io/TechBlog/"
 languageCode = 'en-us'
 title = 'Alexs Tech Blog'
-
+canonifyurls = true
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
