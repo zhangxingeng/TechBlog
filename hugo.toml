@@ -1,4 +1,4 @@
-baseURL = 'https://zhangxingeng.github.io/TechBlog/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Alexs Tech Blog'
 theme = 'hugo-book'
