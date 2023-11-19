@@ -21,7 +21,7 @@ title: "Unreal - Part 1: the Big Picture"
 
 ### Class Structures
 <!-- - <iframe height='500' scrolling='yes' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%' src="https://app.creately.com/d/fZknuArLuyk/view"></iframe> -->
-- ![Class Structure](/images/unreal_class_structure.png)
+- ![Class Structure](images/unreal_class_structure.png)
 - [View Interactive version](https://app.creately.com/d/fZknuArLuyk/view)
 #### Root Structure
 - `UObject`: base class for all objects in unreal. Garbage collection is implemented here

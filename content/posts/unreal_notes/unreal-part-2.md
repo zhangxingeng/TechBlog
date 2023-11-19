@@ -22,7 +22,7 @@ title: "Unreal - Part 2: Environment Setup"
 - Launch the engine and create a project.
 - Once unreal editor is open, go to **edit - plugins**
 - Search for Visual studio Intergration tool (just installed) and make sure it is ticked
-- ![Check Ticked](/images/vs_unreal_intergration_tool_addon.png)
+- ![Check Ticked](images/vs_unreal_intergration_tool_addon.png)
 - In VS, [install the UnrealVS Extension](https://docs.unrealengine.com/5.3/en-US/using-the-unrealvs-extension-for-unreal-engine-cplusplus-projects/)
 - [Some tweaks on VS for ease of use](https://docs.unrealengine.com/5.3/en-US/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine/)
 

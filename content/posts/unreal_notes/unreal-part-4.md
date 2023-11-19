@@ -75,4 +75,4 @@ bool UMyItem::SetCount(int NewCount) {
 ```
 - what is the `Category` keyword:
 - For better viewing in unreal editor:
-- ![category keyword](/images/unreal_cpp_category_keyword.png)
+- ![category keyword](images/unreal_cpp_category_keyword.png)
