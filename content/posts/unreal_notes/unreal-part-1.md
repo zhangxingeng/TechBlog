@@ -1,15 +1,7 @@
 ---
 date: 2023-11-17
-linktitle: Unreal Learning Notes
-menu:
-  main:
-    parent: tutorials
-prev: /tutorials/mathjax
-title: Unreal Learning Notes
-weight: 10
+title: "Unreal - Part 1: the Big Picture"
 ---
-
-# Unreal Learning notes
 
 ## How Game Engine Runs
 ### Engine Prep
