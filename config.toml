@@ -1,6 +1,6 @@
 baseURL = "https://www.shanechang.com/"
 languageCode = 'en-us'
-title = 'Shane\'s Tech Blog'
+title = "Shane's Tech Blog"
 canonifyurls = true
 # Book configuration
 disablePathToLower = true
