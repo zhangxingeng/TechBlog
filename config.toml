@@ -1,6 +1,6 @@
-baseURL = "https://zhangxingeng.github.io/TechBlog/"
+baseURL = "https://www.shanechang.com/"
 languageCode = 'en-us'
-title = 'Alexs Tech Blog'
+title = 'Shane\'s Tech Blog'
 canonifyurls = true
 # Book configuration
 disablePathToLower = true
