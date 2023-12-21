@@ -1,0 +1,53 @@
+---
+date: 2023-12-21
+title: ""
+---
+- **Fat-Soluble Vitamins**
+  - These are stored in body fat, so overdose causes toxicity.
+  - **Vitamin A**
+    - Essential for vision, immune function, and skin health. 
+    - Comes in forms like 
+      - retinol (from animal sources): Fish oils, milk, egg
+      - and beta-carotene (from plant sources): leafy greens, orange and yellow vegtables (carrots, sweet potatoes, pumpkin and other winter squash, summer squash) & fruits (cantaloupe, mango), Tomatoes, red bell pepper
+  - **Vitamin D**
+    - Important for bone health, immune function, and calcium absorption. Different forms include:
+      - **D2 (Ergocalciferol)**
+        - Mushrooms exposed to ultraviolet light
+        - Less potent and effective than D3
+      - **D3 (Cholecalciferol)**
+        - Produced by the skin when exposed to sunlight
+        - found in animal-based foods: Fatty Fish, such as salmon, mackerel, and sardines; Egg yolks
+  - **Vitamin E**
+    - Acts as an antioxidant, protecting cells from damage. Includes various tocopherols and tocotrienols.
+    - found in plant-based oils, nuts, seeds, fruits, and vegetables.
+  - **Vitamin K**
+    - Essential for blood clotting and bone metabolism. Types include:
+      - **K1 (Phylloquinone)**
+        - found primarily in green leafy vegetables like spinach, kale, and broccoli.
+        - primarily involved in blood clotting
+      - **K2 (Menaquinone)**
+        - mainly involved in bone and cardiovascular health.
+        - helps to regulate calcium deposition, promoting the calcification of bones while preventing the calcification of blood vessels and kidneys.
+        - found in some fermented foods, animal products, and is also produced by gut bacteria.
+
+- **Water-Soluble Vitamins**
+  - **B Vitamins**
+    - A complex of vitamins crucial in energy metabolism, brain function, and red blood cell production.
+    - **B1 (Thiamine)**
+      - Important for energy metabolism and nerve function.
+    - **B2 (Riboflavin)**
+      - Plays a role in energy production, skin health, and vision.
+    - **B3 (Niacin)**
+      - Involved in DNA repair, metabolism, and skin health.
+    - **B5 (Pantothenic Acid)**
+      - Essential for fatty acid synthesis and energy production.
+    - **B6 (Pyridoxine)**
+      - Important in amino acid metabolism, red blood cell production, and neurotransmitter synthesis.
+    - **B7 (Biotin)**
+      - Key for hair, skin, and nail health, as well as macronutrient metabolism.
+    - **B9 (Folate or Folic Acid)**
+      - Vital for DNA synthesis and repair, particularly important during pregnancy.
+    - **B12 (Cobalamin)**
+      - Essential for nerve function, red blood cell formation, and DNA synthesis.
+  - **Vitamin C (Ascorbic Acid)**
+    - Important for collagen synthesis, antioxidant defense, immune function, and enhancing iron absorption from plant-based foods.
