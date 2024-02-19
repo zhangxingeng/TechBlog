@@ -1,7 +1,8 @@
 ---
 date: 2024-01-22
-title: "Unreal - Part 8: WTF is `*const*`?
+title: "Unreal - Part 8: WTF is `*const*`?"
 ---
+
 ### const pointer vs pointed to is const
 - const pointer to a int: `int* const ptr`
 - point to a const int: `const int* ptr`

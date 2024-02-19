@@ -1,3 +1,8 @@
+---
+date: 2023-11-17
+title: "Understanding Transformers and self attention"
+---
+
 ## Input and output
 - Just like other recursive networks input is a sequence and output is also a sequence.
 - Unlike other RNN, input should be provided before start
