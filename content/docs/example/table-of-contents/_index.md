@@ -1,8 +1,7 @@
 ---
 title: "Table-Of-Contents"
-description: ""
+date: 2024-04-01
 ---
 
-## Blogs
-- With-Toc
-- Without-Toc
+- [With-Toc]({{< relref "/docs/example/table-of-contents/with-toc.md" >}})
+- [Without-Toc]({{< relref "/docs/example/table-of-contents/without-toc.md" >}})

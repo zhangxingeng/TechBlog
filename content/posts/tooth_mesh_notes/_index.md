@@ -1,9 +1,8 @@
 ---
 title: "Tooth Mesh Notes"
-description: ""
+date: 2024-04-01
 ---
 
-## Blogs
-- Examining Shell Generation Code
-- Mesh Ml Note
-- Pytorch Distributed Training
+- [Examining Shell Generation Code]({{< relref "/posts/tooth_mesh_notes/examining_shell_generation_code.md" >}})
+- [Mesh Ml Note]({{< relref "/posts/tooth_mesh_notes/mesh_ml_note.md" >}})
+- [Pytorch Distributed Training]({{< relref "/posts/tooth_mesh_notes/pytorch_distributed_training.md" >}})

@@ -1,8 +1,7 @@
 ---
 title: "Misc"
-description: ""
+date: 2024-04-01
 ---
 
-## Blogs
-- Chatgpt Prompt Howto
-- Collected Quotes
+- [Chatgpt Prompt Howto]({{< relref "/posts/misc/ChatGPT_prompt_howto.md" >}})
+- [Collected Quotes]({{< relref "/posts/misc/collected_quotes.md" >}})

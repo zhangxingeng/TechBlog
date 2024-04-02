@@ -1,7 +1,6 @@
 ---
 title: "Collapsed"
-description: ""
+date: 2024-04-01
 ---
 
-## Blogs
-- [3Rd-Level]({< relref "example\collapsed\3rd-level" >})
+- [Collapsed]({{< relref "/docs/example/collapsed/3rd-level" >}})

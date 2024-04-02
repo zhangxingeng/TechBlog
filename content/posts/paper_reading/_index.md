@@ -1,7 +1,6 @@
 ---
 title: "Paper Reading"
-description: ""
+date: 2024-04-01
 ---
 
-## Blogs
-- Attention Is All You Need
+- [Attention Is All You Need]({{< relref "/posts/paper_reading/attention_is_all_you_need.md" >}})

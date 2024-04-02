@@ -1,7 +1,6 @@
 ---
 title: "Aws Ml Notes"
-description: ""
+date: 2024-04-01
 ---
 
-## Blogs
-- Note 1
+- [Note 1]({{< relref "/posts/aws_ml_notes/note_1.md" >}})

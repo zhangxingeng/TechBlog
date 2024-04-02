@@ -1,7 +1,6 @@
 ---
 title: "Atomic Habits"
-description: ""
+date: 2024-04-01
 ---
 
-## Blogs
-- Quotes
+- [Quotes]({{< relref "/posts/book_reading/atomic_habits/quotes.md" >}})

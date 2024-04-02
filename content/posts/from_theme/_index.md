@@ -1,10 +1,9 @@
 ---
 title: "From Theme"
-description: ""
+date: 2024-04-01
 ---
 
-## Blogs
-- Old Creating-A-New-Theme
-- Old Goisforlovers
-- Old Hugoisforlovers
-- Old Migrate-From-Jekyll
+- [Old Creating-A-New-Theme]({{< relref "/posts/from_theme/old_creating-a-new-theme.md" >}})
+- [Old Goisforlovers]({{< relref "/posts/from_theme/old_goisforlovers.md" >}})
+- [Old Hugoisforlovers]({{< relref "/posts/from_theme/old_hugoisforlovers.md" >}})
+- [Old Migrate-From-Jekyll]({{< relref "/posts/from_theme/old_migrate-from-jekyll.md" >}})

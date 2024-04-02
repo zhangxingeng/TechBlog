@@ -1,8 +1,7 @@
 ---
 title: "Nutrition And Health"
-description: ""
+date: 2024-04-01
 ---
 
-## Blogs
-- Suppliment Currently Used
-- Vitamins
+- [Suppliment Currently Used]({{< relref "/posts/nutrition_and_health/suppliment_currently_used.md" >}})
+- [Vitamins]({{< relref "/posts/nutrition_and_health/vitamins.md" >}})

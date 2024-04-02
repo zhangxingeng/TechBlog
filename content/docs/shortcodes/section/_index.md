@@ -1,8 +1,7 @@
 ---
 title: "Section"
-description: ""
+date: 2024-04-01
 ---
 
-## Blogs
-- First-Page
-- Second-Page
+- [First-Page]({{< relref "/docs/shortcodes/section/first-page.md" >}})
+- [Second-Page]({{< relref "/docs/shortcodes/section/second-page.md" >}})
