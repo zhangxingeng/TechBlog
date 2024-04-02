@@ -1,22 +1,40 @@
----
-headless: true
----
-
-- [**Example Site**]({{< relref "/docs/example" >}})
-- [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
-  - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-  - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
-- [Collapsed]({{< relref "/docs/example/collapsed" >}})
-  - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
-    - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
-<br />
-
-- **Shortcodes**
-- [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
-- [Columns]({{< relref "/docs/shortcodes/columns" >}})
-- [Expand]({{< relref "/docs/shortcodes/expand" >}})
-- [Hints]({{< relref "/docs/shortcodes/hints" >}})
-- [KaTex]({{< relref "/docs/shortcodes/katex" >}})
-- [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
-- [Tabs]({{< relref "/docs/shortcodes/tabs" >}})
-<br />
+  - **Aws Ml Notes**
+    - [Note 1]({< relref "/posts\aws_ml_notes\note_1.md" >})
+  - **Book Reading**
+    - **Atomic Habits**
+      - [Quotes]({< relref "/book_reading\atomic_habits\quotes.md" >})
+  - **Dev Stacks**
+    - [Notes On Browser Dom And Js Bundling]({< relref "/posts\dev_stacks\notes_on_browser_dom_and_js_bundling.md" >})
+    - [Notes On Git]({< relref "/posts\dev_stacks\notes_on_git.md" >})
+  - **From Theme**
+    - [Old Creating-A-New-Theme]({< relref "/posts\from_theme\old_creating-a-new-theme.md" >})
+    - [Old Goisforlovers]({< relref "/posts\from_theme\old_goisforlovers.md" >})
+    - [Old Hugoisforlovers]({< relref "/posts\from_theme\old_hugoisforlovers.md" >})
+    - [Old Migrate-From-Jekyll]({< relref "/posts\from_theme\old_migrate-from-jekyll.md" >})
+  - **German Learning**
+    - [Gender Cheatsheet]({< relref "/posts\german_learning\gender_cheatsheet.md" >})
+    - [Grammar]({< relref "/posts\german_learning\grammar.md" >})
+  - **Misc**
+    - [Chatgpt Prompt Howto]({< relref "/posts\misc\ChatGPT_prompt_howto.md" >})
+    - [Collected Quotes]({< relref "/posts\misc\collected_quotes.md" >})
+  - **Nutrition And Health**
+    - [Suppliment Currently Used]({< relref "/posts\nutrition_and_health\suppliment_currently_used.md" >})
+    - [Vitamins]({< relref "/posts\nutrition_and_health\vitamins.md" >})
+  - **Paper Reading**
+    - [Attention Is All You Need]({< relref "/posts\paper_reading\attention_is_all_you_need.md" >})
+  - **Startup Related**
+    - [Sam Altman How To Succeed With A Startup]({< relref "/posts\startup_related\sam_altman_how_to_succeed_with_a_startup.md" >})
+  - **Tooth Mesh Notes**
+    - [Examining Shell Generation Code]({< relref "/posts\tooth_mesh_notes\examining_shell_generation_code.md" >})
+    - [Mesh Ml Note]({< relref "/posts\tooth_mesh_notes\mesh_ml_note.md" >})
+    - [Pytorch Distributed Training]({< relref "/posts\tooth_mesh_notes\pytorch_distributed_training.md" >})
+  - **Unreal Notes**
+    - [Note On Video]({< relref "/posts\unreal_notes\note_on_video.md" >})
+    - [Unreal-Part-1]({< relref "/posts\unreal_notes\unreal-part-1.md" >})
+    - [Unreal-Part-2]({< relref "/posts\unreal_notes\unreal-part-2.md" >})
+    - [Unreal-Part-3]({< relref "/posts\unreal_notes\unreal-part-3.md" >})
+    - [Unreal-Part-4]({< relref "/posts\unreal_notes\unreal-part-4.md" >})
+    - [Unreal-Part-5]({< relref "/posts\unreal_notes\unreal-part-5.md" >})
+    - [Unreal-Part-6]({< relref "/posts\unreal_notes\unreal-part-6.md" >})
+    - [Unreal-Part-7-Pointer-Vs-Reference]({< relref "/posts\unreal_notes\unreal-part-7-pointer-vs-reference.md" >})
+    - [Unreal-Part-8-Wtf-Is-Star-Conststar]({< relref "/posts\unreal_notes\unreal-part-8-wtf-is-star-conststar.md" >})
