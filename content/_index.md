@@ -26,7 +26,6 @@ Hello! I'm Xingeng Zhang, an accomplished Machine Learning Specialist and Softwa
   - Bachelor of Engineering in Robotics, 2017
 
 ## Work Experience
-{{< columns >}}
 **Machine Learning Specialist**  
 Robert Wood Johnson University Hospital, United States (Hybrid)  
 June 2023 - Present  
@@ -34,7 +33,6 @@ June 2023 - Present
 - Developed an LSTM model for video dataset analysis in healthcare research.
 - Achieved over 95% accuracy in pattern recognition with advanced ML models.
 
-<--->
 
 **Machine Learning Developer (Intern)**  
 Fiskkit, San Francisco, CA  
@@ -42,7 +40,6 @@ Dec 2019 – Dec 2020
 - Designed and optimized a text recognition engine, reducing error rates by over 70%.
 - Built and integrated custom PyTorch NLP models, streamlining text processing.
 
-{{< /columns >}}
 
 ## Projects
 - **Market Analysis for Colgate Toothpaste**: Utilized ML algorithms to analyze market data patterns, achieving 89% prediction accuracy.
