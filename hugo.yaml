@@ -1,5 +1,15 @@
 baseURL: "https://www.shanechang.com/"
-title: Shanes Tech Blog
+languageCode: en-us
+params:
+  contact:
+    email: info@example.org
+    phone: +1 202-555-1212
+  description: "this is a blog site created by Xingeng(Shane) Zhang, \
+  meant to share his exciting learning journey in machine learning, \
+  philosophy, sociology, cognitive science, biology and other intriguing topics."
+
+  subtitle: The Best Widgets on Earth
+title: "Shane's Tech Blog"
 theme: ["PaperMod"]
 paginate: 5
 
