@@ -9,18 +9,18 @@ title: "Loss Functions Summary"
 - Numerical - penalizes deviations more heavily than categorical, but help in achieving accurate continuous predictions. (better for regression)
 - **Example:** Predicting house prices. 
 - **Equation:** 
-  \[
+  \\[
   \text{MSE} = \frac{1}{N} \sum_{i=1}^N (y_i - \hat{y}_i)^2
-  \]
+  \\]
 
 #### Cross-Entropy Loss
 - Categorical - Cares less about deviations, good for discrete classes.
 - , but help in achieving accurate discrete class predictions
 - **Example:** Classifying emails as spam or not spam.
 - **Equation:**
-  \[
+  \\[
   \text{Cross-Entropy} = -\frac{1}{N} \sum_{i=1}^N \left[ y_i \log(\hat{y}_i) + (1 - y_i) \log(1 - \hat{y}_i) \right]
-  \]
+  \\]
 - Notice since prediction value is between 0 and 1, log would be negative converging from $-\infty$ to 0. Hence, the negative sign in the equation.
 
 ### Differences and Examples:
