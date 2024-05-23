@@ -1,4 +1,5 @@
 baseURL: "https://www.shanechang.com/"
+relativeURLs: true
 languageCode: en-us
 params:
   contact:
