@@ -43,11 +43,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: false
+          submodules: recursive
           fetch-depth: 0
-      - name: Initialize and update submodules
+      - name: List themes directory contents
         run: |
-          git submodule update --init --recursive
+          ls -la themes
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
