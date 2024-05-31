@@ -1,0 +1,31 @@
+---
+date: 2024-05-24
+title: "Docker Cheatsheet for ML Interview"
+---
+
+- FROM: base image
+- RUN: setup env like pip or apt
+- COPY
+- CMD: run after build
+- ENV: env vars
+- EXPOSE: port
+- ARG: build-time variables
+- `docker build -t <name> .`: build image
+- `docker run --rm -it <name> /bin/bash`: run image
+  - `rm`: remove container after exit
+  - `it`: interactive
+  - `bin/bash`: example command run within container
+- Networking between containers
+  - Build a bridge network (virtual network)
+    - `docker network create my-app-network`: create network
+    - `docker run ... --network my-app-network`: assign to network
+    - container in bridge can access internet but internet can't access container
+  - Host network: mapping host ports to container
+- `docker-compose.yml`: define services, networks, volumes (config storage for entire infrastructure)
+  - expose port for external access` ports: "8080:8080"`
+  - Services: containers + build configs
+  - Networks: virtual network
+  - ports: expose ports
+  - volumes: persist data
+  - env vars
+  - use depends on to define dependencies
