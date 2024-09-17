@@ -1,0 +1,24 @@
+{
+    "cSpell.words": [
+        "backprop",
+        "burstable",
+        "carb",
+        "dataframe",
+        "explainability",
+        "Flink",
+        "HDFS",
+        "Inferentia",
+        "matmul",
+        "multimodal",
+        "OLAP",
+        "OLTP",
+        "randn",
+        "Softmax",
+        "Struct",
+        "Subgradients",
+        "Traefik",
+        "underutilization"
+    ],
+    "pasteImage.basePath": "${currentFileDir}",
+    "pasteImage.path": "${currentFileDir}/imgs/"
+}

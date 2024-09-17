@@ -1,3 +1,8 @@
+---
+date: 2023-11-17
+title: "Random Python tips for interview coding"
+---
+
 - use `is not` for reference comparison and compare to `None`, use `!=` for value comparison
 - stack and queue use `collections.deque` with functions: `append`, `appendleft`, `pop`, `popleft`
 - sliding window always consider reuse the previous result
