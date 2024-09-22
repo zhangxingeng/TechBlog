@@ -37,7 +37,7 @@ Here's what we'll include in our model:
 Let’s implement this in Python:
 
 ```python
-import numpy as np
+import numpy_financial as npf
 
 def calculate_real_estate_investment(purchase_price, down_payment_percent, loan_interest_rate, loan_term,
                                      property_tax_rate, insurance_rate, maintenance_rate, management_fee_rate,
@@ -49,7 +49,7 @@ def calculate_real_estate_investment(purchase_price, down_payment_percent, loan_
     total_payments = loan_term * 12
 
     # Monthly mortgage payment calculation
-    monthly_mortgage_payment = np.pmt(monthly_interest_rate, total_payments, loan_amount)
+    monthly_mortgage_payment = npf.pmt(monthly_interest_rate, total_payments, loan_amount)
 
     # Annual operational costs and income
     annual_property_tax = purchase_price * property_tax_rate
@@ -71,12 +71,12 @@ def calculate_real_estate_investment(purchase_price, down_payment_percent, loan_
     # Property sale price at the end of holding period
     sale_price = purchase_price * ((1 + appreciation_rate) ** years_to_hold)
     sales_commission = sale_price * 0.06
-    net_sale_proceeds = sale_price - sales_commission - loan_amount * np.pv(monthly_interest_rate, total_payments - years_to_hold * 12, monthly_mortgage_payment, 0)
+    net_sale_proceeds = sale_price - sales_commission - loan_amount * npf.pv(monthly_interest_rate, total_payments - years_to_hold * 12, monthly_mortgage_payment, 0)
     cash_flows.append(net_sale_proceeds)
 
     # NPV and IRR
-    npv = np.npv(inflation_rate, cash_flows)
-    irr = np.irr(cash_flows)
+    npv = npf.npv(inflation_rate, cash_flows)
+    irr = npf.irr(cash_flows)
 
     return {
         'NPV': npv,
@@ -84,6 +84,7 @@ def calculate_real_estate_investment(purchase_price, down_payment_percent, loan_
         'Annual Cash Flow': cash_flows[:-1],
         'Net Sale Proceeds': net_sale_proceeds
     }
+
 
 # Example usage
 result = calculate_real_estate_investment(
