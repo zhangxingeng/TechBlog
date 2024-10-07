@@ -1,4 +1,7 @@
-
+---
+title: "Notes about conversations"
+date: 2024-04-01
+---
 ## How to not be boring in conversations
 
 ### Handle short answer questions
