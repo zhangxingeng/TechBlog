@@ -60,3 +60,13 @@ date: 2024-10-05
   if __name__ == "__main__":
       main()
   ```
+
+### Example of nested runs
+```python
+with mlflow.start_run(run_name="Parent_Run") as parent_run:
+    # Log metrics for the parent run
+    for i in range(3):
+        with mlflow.start_run(run_name=f"Child_Run_{i}", nested=True):
+            # Log Metrics for child run
+            pass
+```
